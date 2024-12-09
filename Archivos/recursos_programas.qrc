@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="elefante">
+    <file>elefante.jpg</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>1.jpg</file>
+  </qresource>
+  <qresource prefix="playa">
+    <file>playa.jpg</file>
+  </qresource>
+</RCC>
